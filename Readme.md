@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Алина Табачникас](https://up.htmlacademy.ru/nodejs-api/5/user/95161).
-* Наставник: `Неизвестно`.
+* Наставник: [Yaroslav Denisenko](https://htmlacademy.ru/profile/id2412489).
 
 ---
 
