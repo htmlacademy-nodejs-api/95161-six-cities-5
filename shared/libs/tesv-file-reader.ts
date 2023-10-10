@@ -27,11 +27,11 @@ export class TSVFileReader implements FileReader {
       .split('\n')
       .filter((row) => row.trim().length > 0);
 
-    const data = rows.map((line) => line.split('\t'));
+    const data = rows.map((line) => line.split('    '));
 
     const getCoordinate = (coordinateStr: string): Coordinate => {
       const coordinatesPairs = coordinateStr.split(','); // [long:1, attt:2]
-      return {latitude: +coordinatesPairs[0].split(':')[1],longitude: +coordinatesPairs[1].split(':')[1]};
+      return {latitude: coordinatesPairs[0].split(':')[1],longitude: coordinatesPairs[1].split(':')[1]};
     };
 
     return data.map(([title, description, postDate, city, preview, photos, isPremium, isFavorite, rank, accomodation,
