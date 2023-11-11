@@ -1,0 +1,64 @@
+{
+  "api": {
+    "titles": [
+      "Шале в живописном пригороде",
+      "Квартира-студия в центре",
+      "Двухкомнатная квартира у площади Победы",
+      "Дом фермера",
+      "Номера в отеле с видом на горы"
+    ],
+    "descriptions": [
+      "Двухкомнатное шале с ремонтом в деревенском стиле",
+      "Обновленный отель в историческом центре города",
+      "Квартира с видом на горы и море",
+      "Дом фермера - живописный пригород,сельская стилистика",
+      "Квартира- студия в самом сердце города. Большая терраса"
+    ],
+    "cities": [
+      "Paris",
+      "Cologne",
+      "Brussels",
+      "Amsterdam",
+      "Hamburg",
+      "Dusseldorf"
+    ],
+    "previews": [
+      "shale.jpg",
+      "studio.jpg",
+      "house.jpg",
+      "townhouse.jpg",
+      "flat.jpg",
+      "villa.jpg"
+    ],
+    "photos": [
+      "image1.jpg",
+      "image2.jpg",
+      "image3.jpg",
+      "image4.jpg",
+      "image5.jpg",
+      "image6.jpg"
+    ],
+    "accomodations": [
+      "apartment",
+      "house",
+      "room",
+      "hotel"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Air_conditioning",
+      "Laptop_friendly_workspace",
+      "Baby_seat",
+      "Washer",
+      "Towels",
+      "Fridge"
+    ],
+    "authors": [
+      "link1",
+      "link2",
+      "link4",
+      "link5",
+      "link6"
+    ]
+  }
+}
